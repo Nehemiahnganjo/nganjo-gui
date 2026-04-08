@@ -1,0 +1,14 @@
+/home/ghostshell/Desktop/NganjoOS-v1.0-Lite-3/neodesktop/target/release/deps/thiserror-de5695ee775a8361.d: /home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/lib.rs /home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/aserror.rs /home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/display.rs /home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/var.rs /home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/private.rs /home/ghostshell/Desktop/NganjoOS-v1.0-Lite-3/neodesktop/target/release/build/thiserror-224d857c3a7cd2b2/out/private.rs
+
+/home/ghostshell/Desktop/NganjoOS-v1.0-Lite-3/neodesktop/target/release/deps/libthiserror-de5695ee775a8361.rlib: /home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/lib.rs /home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/aserror.rs /home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/display.rs /home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/var.rs /home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/private.rs /home/ghostshell/Desktop/NganjoOS-v1.0-Lite-3/neodesktop/target/release/build/thiserror-224d857c3a7cd2b2/out/private.rs
+
+/home/ghostshell/Desktop/NganjoOS-v1.0-Lite-3/neodesktop/target/release/deps/libthiserror-de5695ee775a8361.rmeta: /home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/lib.rs /home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/aserror.rs /home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/display.rs /home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/var.rs /home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/private.rs /home/ghostshell/Desktop/NganjoOS-v1.0-Lite-3/neodesktop/target/release/build/thiserror-224d857c3a7cd2b2/out/private.rs
+
+/home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/lib.rs:
+/home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/aserror.rs:
+/home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/display.rs:
+/home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/var.rs:
+/home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/private.rs:
+/home/ghostshell/Desktop/NganjoOS-v1.0-Lite-3/neodesktop/target/release/build/thiserror-224d857c3a7cd2b2/out/private.rs:
+
+# env-dep:OUT_DIR=/home/ghostshell/Desktop/NganjoOS-v1.0-Lite-3/neodesktop/target/release/build/thiserror-224d857c3a7cd2b2/out

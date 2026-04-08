@@ -1,0 +1,14 @@
+/home/ghostshell/Desktop/NganjoOS-v1.0-Lite-3/neodesktop/target/release/deps/serde-ea74aa0676957cd2.d: /home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/ghostshell/Desktop/NganjoOS-v1.0-Lite-3/neodesktop/target/release/build/serde-c9e7658896aa20f9/out/private.rs
+
+/home/ghostshell/Desktop/NganjoOS-v1.0-Lite-3/neodesktop/target/release/deps/libserde-ea74aa0676957cd2.rlib: /home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/ghostshell/Desktop/NganjoOS-v1.0-Lite-3/neodesktop/target/release/build/serde-c9e7658896aa20f9/out/private.rs
+
+/home/ghostshell/Desktop/NganjoOS-v1.0-Lite-3/neodesktop/target/release/deps/libserde-ea74aa0676957cd2.rmeta: /home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/ghostshell/Desktop/NganjoOS-v1.0-Lite-3/neodesktop/target/release/build/serde-c9e7658896aa20f9/out/private.rs
+
+/home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/ghostshell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/ghostshell/Desktop/NganjoOS-v1.0-Lite-3/neodesktop/target/release/build/serde-c9e7658896aa20f9/out/private.rs:
+
+# env-dep:OUT_DIR=/home/ghostshell/Desktop/NganjoOS-v1.0-Lite-3/neodesktop/target/release/build/serde-c9e7658896aa20f9/out
